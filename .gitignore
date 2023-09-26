@@ -34,3 +34,4 @@ override.tf.json
 terraform.rc
 
 .envrc
+.idea/kubernetes-settings.xml
